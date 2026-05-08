@@ -110,4 +110,14 @@ AI-powered garment fit analysis system using 3D mesh processing, body measuremen
 - Open each `.ipynb` notebook in Google Colab or Jupyter Notebook  
 - Install the required Python libraries  
 - Run the notebook cells sequentially  
-- View outputs such as waist visualization, normalized measurements, and garment recommendations  
+- View outputs such as waist visualization, normalized measurements, and garment recommendations
+
+---
+
+# Applications
+
+- Virtual fitting rooms  
+- Smart fashion recommendation systems  
+- AI-powered apparel platforms  
+- Digital tailoring solutions  
+- Personalized shopping systems  
