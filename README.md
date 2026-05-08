@@ -1,7 +1,7 @@
 # SmartFit Garment Analysis System
 
 AI-powered garment fit analysis system using 3D mesh processing, body measurement sanitization, and intelligent garment recommendation algorithms for fashion technology and virtual fitting applications.
-
+---
 # Question 1: Waist Circumference Visualization
 
 ## Overview
@@ -37,7 +37,7 @@ AI-powered garment fit analysis system using 3D mesh processing, body measuremen
 - Waist slicing height identified  
 - 3D waist visualization created  
 - Output image saved as `waist_slice.png`  
-
+---
 # Question 2: Measurement Normalization & Outlier Detection Engine
 
 ## Overview
@@ -70,7 +70,7 @@ AI-powered garment fit analysis system using 3D mesh processing, body measuremen
 - Derived measurements calculated  
 - Clean and standardized dataset produced  
 
-
+---
 # Question 3: Best-Fit Multi-Constraint Search Algorithm
 
 ## Overview
@@ -104,7 +104,7 @@ AI-powered garment fit analysis system using 3D mesh processing, body measuremen
 - Fit confidence scores calculated  
 - Garments ranked based on fitting accuracy  
 - Best-fit clothing suggestions identified  
-
+---
 # How to Run
 
 - Open each `.ipynb` notebook in Google Colab or Jupyter Notebook  
