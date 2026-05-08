@@ -1,6 +1,7 @@
 # SmartFit Garment Analysis System
 
 AI-powered garment fit analysis system using 3D mesh processing, body measurement sanitization, and intelligent garment recommendation algorithms for fashion technology and virtual fitting applications.
+
 ---
 # Question 1: Waist Circumference Visualization
 
