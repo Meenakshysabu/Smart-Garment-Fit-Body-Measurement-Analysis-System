@@ -37,7 +37,7 @@ AI-powered garment fit analysis system using 3D mesh processing, body measuremen
 - Waist contour highlighted on the 3D mesh  
 - Waist slicing height identified  
 - 3D waist visualization created  
-- Output image saved as `waist_slice.png`  
+- Output image saved as `waist_slice.jpeg`  
 ---
 # Question 2: Measurement Normalization & Outlier Detection Engine
 
